@@ -1,2 +1,2 @@
 # Prope
-notebooks propedeupticos
+notebooks propedeupticos (Katas)
