@@ -1,2 +1,2 @@
 # Prope
-notebooks propedeupticos (Katas)
+notebooks propedeupticos (Katas) para el programa LaunchX
